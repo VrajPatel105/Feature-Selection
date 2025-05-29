@@ -4,7 +4,7 @@ Feature Selection and its different methods
 # Feature Selection
 
 1. Filter Based Feature Selection  
-   - Variance Threshold  
+   - Variance Threshold   
    - Correlation  
    - ANOVA  
    - Chi-Square  
